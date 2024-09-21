@@ -8,3 +8,4 @@ One limitation of the application is that the textbook file is quite large—aro
 Full book is available in https://ncert.nic.in/textbook.php?jesc1=0-16
 
 # CHATBOT WORKING
+![image alt](https://github.com/jith101/10th_science_RAG_Project/blob/a4b61172b36a7366195aae94f84f73ceb14fb1b0/10TH%20CLASS%20IMG.png)
